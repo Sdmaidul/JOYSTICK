@@ -18,4 +18,4 @@ buildscript {
     }
 }
 
-apply plugin: "com.facebook.react.rootproject"
+app plugin: "com.facebook.react.rootproject"
